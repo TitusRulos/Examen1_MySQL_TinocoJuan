@@ -1,1 +1,1 @@
-# Examen1_MySQL_TinocoJuan
+hice solo el primer punto
